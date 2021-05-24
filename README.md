@@ -10,7 +10,7 @@ Here is what we would like you to do:
 
 * The application should provide the ability for users to register in the system. It should be accomplished via a wizard consisting of 4 pages. 
 * The wizard should have the following pages: "Landing", "Personal Data", "Make a Selfie", "Summary".
-![image](https://user-images.githubusercontent.com/62880758/119350025-e4de3a80-bcaf-11eb-85d6-ee56d38f091d.png)
+![image](https://user-images.githubusercontent.com/62880758/119350455-6c2bae00-bcb0-11eb-8c72-d866be75a020.png)
 * When launching the application for the first time, a user should be navigated to the first page of the wizard.
 * A user should be able to go back to the previous page desirably by swiping from the left to right.
 * Basic validation should be incorporated in the Personal Data page (e.g. only adults are allowed to register, email follows a certain pattern, passpords match and follow basic security rules). 
