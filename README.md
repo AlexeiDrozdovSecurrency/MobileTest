@@ -24,7 +24,7 @@ Here is what we would like you to do:
 
 ## How to capture your thoughts / ideas   
 
-Please create NOTES.md file and write down all of your ideas / comments. 
+Please create NOTES.md file and write down all of your ideas / suggestions / comments. 
 
 ## How to publish the results
 
