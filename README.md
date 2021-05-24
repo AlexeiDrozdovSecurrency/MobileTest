@@ -16,15 +16,18 @@ Here is what we would like you to do:
 * Basic validation should be incorporated in the Personal Data page (e.g. only adults are allowed to register, email follows a certain pattern, passpords match and follow basic security rules). 
 * Residence is a required parameter, which represents a country from which a user claims to be. Populate it by pulling data off any public service such as https://restcountries.eu/. 
 * The "Summary" page will show consolidate the data that was entered in the previous pages. 
+* Look and feel of the application should be similar, not identical, to what it is illustrated on the figure above.
 * The application should be structured in a such a way that it could be easily extended to a mid-sized application. There will be several engineers working on it simultaneosly. 
 * The application will evolve into a Mobile Wallet application that allows transfering funds between different cryptoledgers as well as working with bank accounts, credit / debit cards, making trades, placing orders to buy ETFs, etc.
 * Please pick a proper state management library and share your ideas if this decision needs to be revisited going forward.
 * Write a couple of tests (unit / widget / integration / etc) to demostrate the approach you would recommend to follow.
 * Preselecting a residence country using geolocation will be a plus.
 
+If you realize that the implementation takes more time than reasonable, please describe all of your thoughts and intentions as described down below.
+
 ## How to capture your thoughts / ideas   
 
-Please create NOTES.md file and write down all of your ideas / suggestions / comments. 
+Please create NOTES.md file and write down all of your ideas / suggestions / thoughts. 
 
 ## How to publish the results
 
