@@ -15,6 +15,7 @@ Here is what we would like you to do:
 * A user should be able to go back to the previous page desirably by swiping from the left to right.
 * Basic validation should be incorporated in the Personal Data page (e.g. only adults are allowed to register, email follows a certain pattern, passpords match and follow basic security rules). 
 * Residence is a required parameter, which represents a country from which a user claims to be. Populate it by pulling data off any public service such as https://restcountries.eu/. 
+* The "Summary" page will show consolidate the data that was entered in the previous pages. 
 * The application should be structured in a such a way that it could be easily extended to a mid-sized application. There will be several engineers working on it simultaneosly. 
 * The application will evolve into a Mobile Wallet application that allows transfering funds between different cryptoledgers as well as working with bank accounts, credit / debit cards, making trades, placing orders to buy ETFs, etc.
 * Please pick a proper state management library and share your ideas if this decision needs to be revisited going forward.
